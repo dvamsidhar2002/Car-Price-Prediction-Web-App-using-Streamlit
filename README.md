@@ -20,4 +20,4 @@ Dataset link : <a href = "https://www.kaggle.com/datasets/nehalbirla/vehicle-dat
 <img src= "Actual Training Values vs Predicted Training Values.png" alt= "Github banner" height = 350>
 
 <h2 align='center'> ACTUAL TEST VALUES VS PREDICTED TEST VALUES </h3>
-<img src= "Actual Testing Values vs Predicted Testing Values.png" alt= "Github banner" >
+<img src= "Actual Testing Values vs Predicted Testing Values.png" alt= "Github banner" height = 350>
