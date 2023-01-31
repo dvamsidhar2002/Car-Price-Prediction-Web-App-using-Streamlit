@@ -10,7 +10,7 @@ import pickle
 import streamlit as st
 
 # loading the saved model
-loaded_model = pickle.load(open('D:\Machine Learning with Python\Car Price Prediction using Lasso Regression\Trained_model.sav', 'rb'))
+loaded_model = pickle.load(open('Trained_model.sav', 'rb'))
 
 #creating a function for Prediction
 def car_price_prediction(input_data):
