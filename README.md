@@ -1,5 +1,16 @@
-# Car-Price-Prediction-using-Lasso-Regression
+# Car-Price-Prediction-Web-App-using-Streamlit
+
+![Type](https://img.shields.io/badge/Machine-Learning-red.svg)
+![IDE](https://img.shields.io/badge/IDE-JupyterNotebook-orange.svg)
+![Type](https://img.shields.io/badge/Type-Supervised-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Completed-cherryred.svg)
+
 This is a car price predictor built using Lasso Regression Algorithm
+
+Link to the web app : 
+
+<a href="https://dvamsidhar2002-car-price-pr-car-price-prediction-web-app-t21niu.streamlit.app/">
+    <img src="https://img.shields.io/badge/Car Price Prediction-0A0A0A?style=plastic&logo=HERE&logoColor=white" height=20></a>
 
 <h1 align='center'> WORKFLOW OF PROJECT </h1>
 
